@@ -2,7 +2,7 @@ import telebot
 import random
 import os
 
-bot = telebot.TeleBot("7640320851:AAHGowt8e-ju4VOvFgBE5Oe2Qj6goA7VSj8")
+bot = telebot.TeleBot("")
 
 mems = ('mem1.jpeg', 'mem2.jpeg', 'mem3.jpeg', 'mem4.jpg')
 
